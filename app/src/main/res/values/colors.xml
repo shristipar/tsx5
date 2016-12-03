@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="translucent"> #80000000</color>
+        <color name="primary">#1b4c74</color>
+    <color name="primary_pressed">#2e82c7</color>
+
+    <color name="ripple">#0e68ce</color>
+
+    <color name="floating_blue">#2196F3</color>
+
+
+</resources>
